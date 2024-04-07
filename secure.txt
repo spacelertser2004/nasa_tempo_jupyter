@@ -1,2 +1,0 @@
-username=0009-0008-0111-0486
-password=vonderLuehe11$
